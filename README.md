@@ -8,7 +8,7 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 
 ## Solution 
 - Private Blockchain for Employee Bounties Program 
-[Solution Deck](https://pasteapp.com/p/QpLUGqJKG6D?view=1u5TDFy310K) - developing 
+- [Solution Deck](https://pasteapp.com/p/QpLUGqJKG6D?view=1u5TDFy310K) - developing 
 
 ## Scope of MVP
 
