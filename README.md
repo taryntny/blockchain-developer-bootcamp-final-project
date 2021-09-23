@@ -8,16 +8,11 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 
 ## Solution 
 - Private Blockchain for Employee Bounties Program 
-## Components 
-- 
-- Full time employees are seeking freelancers jobs to increate their income / does things of their interests 
-- Companies looking for entry to holding crytocurrencies as comapny capital  
-
 [Solution Deck](https://pasteapp.com/p/QpLUGqJKG6D?view=1u5TDFy310K) - developing 
 
 ## Scope of MVP
 
-Components Overview
+### Components Overview
 
 - Accounts management
 - **Tasks management**
