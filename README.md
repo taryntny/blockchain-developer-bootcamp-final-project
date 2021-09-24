@@ -15,10 +15,10 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 ### Components Overview
 
 - Accounts management
-- **Tasks management**
+- **Tasks management** (MVP) 
 - Web-based editors (use blockchain technology to measure time spent and actual activities)
-- **Rating system**
-- **Rewards distribution**
+- **Rating system** (MVP)
+- **Rewards distribution** (MVP)
 - Fund management
 
 ### MVP Roles 
@@ -31,12 +31,14 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 - User can choose to contribute to tasks
 - User can earn rewards by contributing to projects and reviewing others' work
 
-### Tasks management (MVP version)
+## Component Details
+
+### Tasks management (MVP)
 1. Anyone in the same organisation can create task 
 2. A task must have requirement/ expectation, expected deadline, limits of contributors, estimated bounties amount  
 3. Link to submit work anonymously (out of blockchain) 
 
-### Rating System (MVP version)
+### Rating System (MVP)
 1. The system will release work ready for review to users automatically based on
     1. their availability 
     2. their credibility score
@@ -44,7 +46,7 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 2. All works are anonymous, all reviews & comments will be anonymous
 3. The system will evaluate reviews by each reviewers' weighting and try to locate irregular reviewers (untruthful review may be indicated by regular outlier rating), which will affects their credibility score, which in turns affects the likelihood of receiving review works. 
 
-### Rewards Distribution (MVP version)
+### Rewards Distribution (MVP)
 1. Via wallet accounts 
 2. Bounties distribution ratio 
     1. ~60% contributors 
