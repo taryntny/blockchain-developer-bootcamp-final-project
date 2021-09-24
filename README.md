@@ -21,12 +21,12 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 - **Rewards distribution** (MVP)
 - Fund management
 
-### MVP Roles 
+### Roles 
 - Task creator
 - Contributors
 - Reviewer
 
-### MVP User Stories 
+### User Stories 
 - User can create task and define its requirement/ expectation and expected deadline, limit of contributors
 - User can choose to contribute to tasks
 - User can earn rewards by contributing to projects and reviewing others' work
