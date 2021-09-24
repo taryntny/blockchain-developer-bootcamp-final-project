@@ -3,8 +3,8 @@ ConsenSys Blockchain Developer Bootcamp Final Project
 
 ## Problem 
 - People like remote work 
-- Full time employees are seeking freelancers jobs to increate their income / does things of their interests 
-- Companies looking for entry to holding crytocurrencies as comapny capital  
+- Full time employees are seeking freelancers jobs to increase their income / does things of their interests 
+- Companies looking for low-risk entry to holding crytocurrencies as comapny capital  
 
 ## Solution 
 - Private Blockchain for Employee Bounties Program 
@@ -52,7 +52,7 @@ ConsenSys Blockchain Developer Bootcamp Final Project
     1. ~60% contributors 
     2. ~40% reviewers 
 3. Suggested contributors to reviewers ratio 1 Contributor to 7 Reviewers
-4. Example
+4. Possible model 
     1. Reward $300, 3 Contributors, ~ 21 Reviewers 
         1. Each Contributor gets $30 - $90 depending on the ratings  
         2. Each Reviewers gets $5.7
